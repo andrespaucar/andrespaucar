@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 I am Andres, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
 ## 👨‍💻 What I am doing..
-![Vue](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-5D7EB5?style=flat&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 

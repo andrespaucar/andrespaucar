@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-erdkse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-paucar/)]
+(https://www.linkedin.com/in/andres-paucar/)
+[![Gmail Badge](https://img.shields.io/badge/-sjandres184@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:sjandres184@gmail.com)](mailto:sjandres184@gmail.com)
 
 I am Andres, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 

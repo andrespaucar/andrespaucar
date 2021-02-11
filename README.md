@@ -29,11 +29,11 @@ I am Andres, currently, working as a fullstack developer. I like to learn new te
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-5D7EB5?style=flat&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/-Laravel-E8392C?style=flat&logo=laravel&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AndresPaucar&count_private=true&show_icons=true&include_all_commits=true&custom_title=andrespaucar%27s%20github%20stats&hide_border=true&line_height=28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespaucar&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)

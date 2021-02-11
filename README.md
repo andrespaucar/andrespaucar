@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-andres-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-paucar/)](https://www.linkedin.com/in/andres-paucar/)
 [![Gmail Badge](https://img.shields.io/badge/-sjandres184@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:sjandres184@gmail.com)](mailto:sjandres184@gmail.com)
 
-I am Andres, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
+I am Andres, currently, working as a fullstack developer. I like to learn new technologies.
 
 ## 👨‍💻 What I am doing..
 ![Vue](https://img.shields.io/badge/vue-2.x-brightgreen.svg)

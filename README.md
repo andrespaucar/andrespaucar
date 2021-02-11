@@ -35,7 +35,7 @@ I am Andres, currently, working as a fullstack developer. I like to learn new te
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AndresPaucar&count_private=true&show_icons=true&include_all_commits=true&custom_title=andrespaucar%27s%20github%20stats&hide_border=true&line_height=28)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AndresPaucar&count_private=true&show_icons=true&include_all_commits=true&custom_title=andrespaucar%27s%20github%20stats&hide_border=true&line_height=28&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrespaucar&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andrespaucar)

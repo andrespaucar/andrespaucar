@@ -24,6 +24,7 @@ I am Andres, currently, working as a fullstack developer. I like to learn new te
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-1B74BA?style=flat&logo=webpack&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)

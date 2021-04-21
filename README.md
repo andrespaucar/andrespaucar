@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Andres, currently, working as a web developer. I like to learn new technologies.
 
 ## 👨‍💻 What I am doing..
-![Vue](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
+![Vue](https://img.shields.io/badge/vue-3.x-brightgreen.svg)
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white)
